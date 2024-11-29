@@ -23,4 +23,4 @@ SELECT
   created_at,
   updated_at
 FROM
-  src_listings;
+  src_listings
